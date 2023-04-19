@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Getting-Started-29b7983ae0ed4dbc80c47b8d546ed835',
+  rootNotionPageId: '1-da8d77ce2c784325826e025a5d51fcf0',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'https://fluoridated-credit-5c8.notion.site/Getting-Started-29b7983ae0ed4dbc80c47b8d546ed835',
+  domain: 'https://www.notion.so/1-da8d77ce2c784325826e025a5d51fcf0',
   author: 'Zhang Xiaopeng',
 
   // open graph metadata (optional)
